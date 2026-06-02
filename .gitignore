@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+perfil_robo/
+ia_base_conhecimento.csv
+erros_lotes.txt
