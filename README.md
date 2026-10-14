@@ -89,15 +89,25 @@ Sou um desenvolvedor focado em construir soluções de engenharia de software e 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saaesilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Samuel" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaesilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaesilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saaesilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&custom_title=Estat%C3%ADsticas%20no%20GitHub&hide=issues,prs" alt="Estatísticas do GitHub de Samuel" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaesilva&layout=compact&theme=tokyonight&hide_border=true&hide=css,html&custom_title=Linguagens%20em%20Destaque" alt="Linguagens mais utilizadas" height="150" />
 </p>
 
 ---
+
+### 📫 Vamos Conversar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samueldegv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/saaesilva" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:samueldegv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <p align="center">
   <i>Construindo soluções inteligentes através da programação e automação. 💻</i>
