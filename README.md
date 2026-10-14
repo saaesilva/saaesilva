@@ -2,20 +2,19 @@
 <h3 align="center">Desenvolvedor de Software | Automação & Soluções Full-Stack</h3>
 
 <p align="center">
-  <a href="https://github.com/saaesilva">
-    <img src="https://komarev.com/ghpvc/?username=saaesilva&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
+  <img src="https://img.shields.io/badge/Foco-Automação_%26_Desenvolvimento_Web-blue?style=for-the-badge" alt="Foco" />
+  <img src="https://img.shields.io/badge/Localização-Minas_Gerais,_Brasil-green?style=for-the-badge" alt="Localização" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por construir soluções práticas que transformam operações manuais em processos inteligentes e automatizados. Minha trajetória começou desenvolvendo automações com **VBA** e migrou com sucesso para o ecossistema do **Google Apps Script**, evoluindo hoje para o desenvolvimento robusto com **Python**, **TypeScript**, **Next.js** e bancos de dados modernos.
+Sou um desenvolvedor apaixonado por construir soluções práticas que transformam operações manuais em processos inteligentes e automatizados. Minha trajetória começou desenvolvendo automações com **VBA** e migrou com sucesso para o ecossistema do **Google Apps Script**, evoluindo para o desenvolvimento robusto de sistemas com **Python**, **TypeScript**, **Next.js** e bancos de dados modernos.
 
-- 🔭 Desenvolvendo sistemas de gestão comercial, automações com Selenium e extensões de tomada de decisão.
-- ⚙️ Forte vivência em resolução de problemas reais de negócios: conciliação de estoque, análise de rentabilidade e controle de validade.
-- 💡 Foco constante em código limpo, automação de rotinas (CI/CD via GitHub Actions) e interfaces intuitivas.
+- 🔭 Desenvolvendo sistemas de gestão comercial, players de mídia para TV Box, automações com Selenium e extensões para tomadas de decisão.
+- ⚙️ Forte vivência prática na resolução de desafios operacionais: conciliação de estoque, análise de rentabilidade e controle de validade de mercadorias.
+- 💡 Foco permanente em código limpo, automação de rotinas (CI/CD via GitHub Actions) e interfaces intuitivas.
 
 ---
 
@@ -24,7 +23,7 @@ Sou um desenvolvedor apaixonado por construir soluções práticas que transform
 | Área | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Frameworks & Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) |
+| **Frameworks & Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) |
 | **Automação & Cloud** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | **Banco de Dados** | ![SQLite](https://img.shields.io/badge/SQLite_WASM-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
 
@@ -39,17 +38,24 @@ Sou um desenvolvedor apaixonado por construir soluções práticas que transform
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-TypeScript-blue?style=flat-square" />
       </p>
-      <p>Sistema web gerencial para varejo/atacado com controle de estoque, <strong>análise de rentabilidade</strong>, dashboard inteligente de <strong>hortifruti</strong> e controle de <strong>validade de produtos</strong>.</p>
+      <p>Sistema web gerencial para atacado e varejo com controle de estoque, <strong>análise de rentabilidade</strong>, dashboard inteligente de <strong>hortifruti</strong> e prevenção de <strong>validade de produtos</strong>.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📺 <a href="https://github.com/saaesilva/tvbox-brasil">TutuTV Box Brasil</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-PyQt6_&_VLC-orange?style=flat-square" />
+      </p>
+      <p>Player desktop de IPTV com foco em canais abertos do Brasil, suporte a <strong>Picture-in-Picture (PiP)</strong>, guia de programação (EPG), mecanismo de <strong>auto-healing</strong> e suporte a controle remoto.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/saaesilva/estoque-bigmais-automacao">Automação de Estoque</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-Selenium-green?style=flat-square" />
       </p>
-      <p>Automação periódica com <strong>Chrome Headless</strong> que consulta estoques em sistemas legados a cada 30min via <strong>GitHub Actions</strong> e persiste os dados em <strong>SQLite</strong>.</p>
+      <p>Automação periódica com <strong>Chrome Headless</strong> que consulta estoques em sistemas legados a cada 30 minutos via <strong>GitHub Actions</strong> e persiste o histórico em <strong>SQLite</strong>.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🥦 <a href="https://github.com/saaesilva/Extensao-Pedido-FLV">Motor de Pedidos FLV</a></h3>
       <p align="center">
@@ -57,12 +63,14 @@ Sou um desenvolvedor apaixonado por construir soluções práticas que transform
       </p>
       <p>Extensão inteligente para Google Chrome de apoio à tomada de decisão para compras de FLV com <strong>análise climática em tempo real (Open-Meteo)</strong> e <strong>SQLite em WebAssembly</strong>.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">🍔 <a href="https://github.com/saaesilva/lanchonete">Lanchonete Delivery</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-Tailwind-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-Tailwind_CSS-yellow?style=flat-square" />
       </p>
-      <p>Cardápio digital responsivo com carrinho interativo, cálculo de frete, checagem dinâmica de horário de funcionamento e <strong>checkout integrado diretamente via WhatsApp</strong>.</p>
+      <p align="center">Cardápio digital responsivo com carrinho interativo, cálculo dinâmico de frete, checagem em tempo real de horário de funcionamento e <strong>checkout integrado diretamente via WhatsApp</strong>.</p>
     </td>
   </tr>
 </table>
