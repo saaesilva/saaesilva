@@ -10,11 +10,20 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por construir soluções práticas que transformam operações manuais em processos inteligentes e automatizados. Minha trajetória começou desenvolvendo automações com **VBA** e migrou com sucesso para o ecossistema do **Google Apps Script**, evoluindo para o desenvolvimento robusto de sistemas com **Python**, **TypeScript**, **Next.js** e bancos de dados modernos.
+Sou um desenvolvedor focado em construir soluções de engenharia de software e automação que geram **impacto operacional direto e mensurável** no dia a dia dos negócios. Minha jornada teve início no desenvolvimento de automações de processos corporativos com **VBA** e migrou para o ecossistema do **Google Apps Script**, consolidando-se no desenvolvimento de aplicações escaláveis com **Python**, **TypeScript**, **Next.js** e arquiteturas orientadas a dados.
 
-- 🔭 Desenvolvendo sistemas de gestão comercial, players de mídia para TV Box, automações com Selenium e extensões para tomadas de decisão.
-- ⚙️ Forte vivência prática na resolução de desafios operacionais: conciliação de estoque, análise de rentabilidade e controle de validade de mercadorias.
-- 💡 Foco permanente em código limpo, automação de rotinas (CI/CD via GitHub Actions) e interfaces intuitivas.
+- 🔭 Desenvolvedor de sistemas de gestão empresarial, players multimídia em PyQt6/VLC, automações com Selenium e extensões preditivas para o Google Chrome.
+- ⚙️ Forte vivência na resolução de problemas reais de varejo e atacado: **redução drástica de tempo em pedidos diários**, **monitoramento 24/7 de estoque multi-loja** e **cálculos matemáticos de rentabilidade comercial**.
+- 💡 Foco permanente em código limpo, pipelines de CI/CD (GitHub Actions), arquitetura desacoplada e interfaces fluidas.
+
+---
+
+### 🚀 Impacto Operacional em Números
+
+- ⏱️ **-70% no Tempo de Emissão de Pedidos**: Algoritmos de decisão na Extensão FLV que cruzam estoque local e previsão do tempo (Open-Meteo).
+- 🤖 **Monitoramento Contínuo 24/7**: Rotinas autônomas em Python executadas a cada 30 minutos via GitHub Actions sem necessidade de infraestrutura local.
+- 📈 **Margem e Rentabilidade sob Controle**: Sistema Gerencial auditando centenas de SKUs com fórmulas de custo médio e preço concorrente.
+- 📦 **Software Portátil sem Fricção**: TutuTV Box Brasil empacotado em executável único com suporte a Picture-in-Picture e LibVLC 64-bit.
 
 ---
 
@@ -29,7 +38,7 @@ Sou um desenvolvedor apaixonado por construir soluções práticas que transform
 
 ---
 
-### 🌟 Projetos em Destaque
+### 🌟 Vitrine de Projetos
 
 <table>
   <tr>
@@ -45,7 +54,7 @@ Sou um desenvolvedor apaixonado por construir soluções práticas que transform
       <p align="center">
         <img src="https://img.shields.io/badge/Python-PyQt6_&_VLC-orange?style=flat-square" />
       </p>
-      <p>Player desktop de IPTV com foco em canais abertos do Brasil, suporte a <strong>Picture-in-Picture (PiP)</strong>, guia de programação (EPG), mecanismo de <strong>auto-healing</strong> e suporte a controle remoto.</p>
+      <p>Player desktop de IPTV com foco em canais abertos do Brasil, suporte a <strong>Picture-in-Picture (PiP)</strong>, guia de programação (EPG), mecanismo de <strong>auto-healing</strong> e <strong>executável .exe portátil</strong>.</p>
     </td>
   </tr>
   <tr>
