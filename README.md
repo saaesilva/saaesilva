@@ -74,12 +74,19 @@ Sou um desenvolvedor focado em construir soluções de engenharia de software e 
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ <a href="https://github.com/saaesilva/usb-workspace-killswitch">USB Workspace Kill-Switch</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Win32_API-3776AB?style=flat-square" />
+      </p>
+      <p>Área de Trabalho Virtual 100% isolada na RAM via <strong>CreateDesktopW</strong> com papel de parede personalizado, isolamento de dados voláteis e <strong>destruição instantânea (Kill-Switch)</strong> ao desconectar o pendrive.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🍔 <a href="https://github.com/saaesilva/lanchonete">Lanchonete Delivery</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-Tailwind_CSS-yellow?style=flat-square" />
       </p>
-      <p align="center">Cardápio digital responsivo com carrinho interativo, cálculo dinâmico de frete, checagem em tempo real de horário de funcionamento e <strong>checkout integrado diretamente via WhatsApp</strong>.</p>
+      <p>Cardápio digital responsivo com carrinho interativo, cálculo dinâmico de frete, checagem em tempo real de funcionamento e <strong>checkout integrado via WhatsApp</strong>.</p>
     </td>
   </tr>
 </table>
